@@ -3,7 +3,7 @@ This repository contains my latest resume.
  
 ### Contents
 - `Akhilesh_CV.pdf` - My latest resume in PDF format.
-- `latex/` - A folder containing latex source code of resume pdf.
+- `latex/` - A folder containing latex source code & fonts.
 - `certifications/` - A folder containing certificates and other proof of my skills and accomplishments.
 - `README.md` - This file.
 
